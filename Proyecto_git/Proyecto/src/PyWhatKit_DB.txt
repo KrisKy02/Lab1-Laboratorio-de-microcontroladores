@@ -1,0 +1,20 @@
+Date: 6/12/2023
+Time: 17:6
+Phone Number: +50684557287
+Message: Alerta: La humedad del suelo es baja, activando riego.
+--------------------
+Date: 6/12/2023
+Time: 17:8
+Phone Number: +50684557287
+Message: Alerta: El tanque de agua está casi vacío.
+--------------------
+Date: 6/12/2023
+Time: 21:27
+Phone Number: +50684557287
+Message: Alerta: La humedad del suelo es baja, activando riego.
+--------------------
+Date: 6/12/2023
+Time: 21:29
+Phone Number: +50684557287
+Message: Alerta: El tanque de agua está casi vacío.
+--------------------
